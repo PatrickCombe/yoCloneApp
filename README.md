@@ -8,7 +8,7 @@ It references an API built by Horizons School of Technology.
 
 ### Homepage
 
-![alt text](Screenshots/1.png )
+![alt text](Screenshots/1.png =100x100)
 
 ### Register Page
 ![alt text](Screenshots/2.png )
