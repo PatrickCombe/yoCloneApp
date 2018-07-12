@@ -454,7 +454,7 @@ class Messages extends React.Component {
 
     class SwiperScreen extends React.Component {
       static navigationOptions = {
-        title: 'HoHoHo!'
+        
 
       };
 
